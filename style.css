@@ -1,0 +1,28 @@
+body{
+    background-image: url(a.jpg);
+    background-size: cover;
+}
+h1{
+    color: red;
+    text-align: center;
+    cursor: pointer;
+
+
+}
+
+p{
+    color: seagreen;
+    font-style: italic;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+.boxmodel{
+    border: 5px solid red;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+
